@@ -338,6 +338,19 @@ body {
 .secondary-button:hover {
     background-color: var(--purple);
     transform: translateY(-2px);
+} 
+
+.contact-email {
+    margin-top: 20px;
+}
+
+.contact-email a {
+    color: var(--purple);
+    text-decoration: none;
+}
+
+.contact-email a:hover {
+    text-decoration: underline;
 }
 
 
